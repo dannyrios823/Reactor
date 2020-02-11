@@ -7,7 +7,7 @@ import reactor.core.publisher.Flux;
 import java.time.LocalTime;
 import java.util.ArrayList;
 
-//@SpringBootTest
+
 class FluxTest {
 
     private static ArrayList<Movie> movies = new ArrayList<>();

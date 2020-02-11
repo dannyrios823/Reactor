@@ -11,8 +11,8 @@ import java.time.LocalTime;
 
 public class Movie {
 
-    private String name;
-    private String gender;
-    private double qualification;
-    private LocalTime duration;
+    public String name;
+    public String gender;
+    public double qualification;
+    public LocalTime duration;
 }
